@@ -1,0 +1,7 @@
+{
+  "name": "CWApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
